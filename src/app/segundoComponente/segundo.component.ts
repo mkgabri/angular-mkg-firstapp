@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./segundo.component.css']
 })
 export class ListVector {
-  users = ['HTML5', 'CSS3', 'JS', 'ANGULAR'];
+  users = ['HTML5', 'CSS3', 'JS', 'ANGULAR', 'REACT'];
 }
